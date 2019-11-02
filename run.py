@@ -1,5 +1,6 @@
 from vividcipher.client import bot
+from vividcipher.config import token
 
 if __name__ == "__main__":
-    bot.run("NTgwMDYzNjUwODc0OTE2ODc1.XbrdRw.M_s1isgIQAUVEGBG3konehE8wQQ")
+    bot.run(token)
 
