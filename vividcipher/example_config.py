@@ -3,6 +3,7 @@ channels = {
     "netiquette": "",
     "welcome": "",
     "general": "",
+    "bot": "",
 }
 roles = {"developer": ""}
 token = ""
