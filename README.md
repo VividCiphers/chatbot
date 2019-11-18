@@ -1,4 +1,6 @@
-# Vivid Ciphers Bot
+# VividCipher Discord Chatbot 🤖
+
+[![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://discord.gg/6RYUs42)
 
 > Requires Python 3.7
 
